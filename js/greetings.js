@@ -2,7 +2,7 @@
  * app
  * @author kyeonghye
  * @since 2023/06/05
- * app main code
+ * greeting message UI
  */
 
 const loginForm = document.querySelector("#login-form");
